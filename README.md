@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @TheVic489
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: victopinana489@gmail.com
+## GitHub Profile README
+Hello there, I'm @TheVic489, a junior web developer who is interested in web development and currently learning machine learning. Here's a brief introduction to my skills and interests.
 
-<!---
-TheVic489/TheVic489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skills:
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Git
+
+### Interests:
+- Web development
+- Machine learning
+- Data analysis
+- Open source contributions
+
+#### How to Reach Me:
+- Email: victopinana489@gmail.com
