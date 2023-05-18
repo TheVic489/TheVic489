@@ -5,9 +5,11 @@ Hello there, I'm @TheVic489, a junior web developer who is interested in web dev
 - HTML
 - CSS
 - JavaScript
-- React.js
+- Angular.js
 - Node.js
 - Git
+- Python
+- PHP
 
 ### Interests:
 - Web development
