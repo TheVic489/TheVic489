@@ -16,12 +16,12 @@ Hello there, I'm @TheVic489, a junior web developer who is interested in web dev
 - Open source contributions
 
 #### How to Reach Me:
-- Email: victopinana489@gmail.com
--
+- Email: victopinana489@gmail.com   
+   ---
+   ### :woman_technologist: About Me :
+   I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
+   
    <div align="center">
      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
    </div>
 
-   ---
-   ### :woman_technologist: About Me :
-   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
