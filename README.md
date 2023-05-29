@@ -1,5 +1,5 @@
 ## Welcome
-Hello there, I'm @TheVic489, a junior web developer who is interested in web development and currently learning machine learning. Here's a brief introduction to my skills and interests.
+Hello there, I'm @TheVic489, a junior web developer who is interested in web development and currently learning machine learning and Vue.js. Here's a brief introduction to my skills and interests.
 
 ### Skills:
 - HTML
