@@ -1,22 +1,6 @@
 ## Welcome
 Hello there, I'm @TheVic489, a junior web developer who is interested in web development and currently learning machine learning and Vue.js. Here's a brief introduction to my skills and interests.
 
-### Skills:
-- HTML
-- CSS
-- JavaScript
-- Angular.js
-- Node.js
-- Git
-- Python
-- PHP
-
-### Interests:
-- Web development
-- Machine learning
-- Data analysis
-- Open source contributions
-
 #### How to Reach Me:
 - Email: victopinana489@gmail.com   
    ---
